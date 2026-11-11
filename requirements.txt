@@ -1,0 +1,1 @@
+tensorflow>=2.16\nstreamlit>=1.35\nnumpy>=1.26\npillow>=10.0\n
